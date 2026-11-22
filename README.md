@@ -8,4 +8,4 @@ The landing page removes the query from browser history, suppresses referrers, f
 
 This callback is not a publisher or media host. TikTok app/Accounts API review and individual account authorization are separate requirements. Postiz must run on this same Mac for the local return to work.
 
-Validation: `node --test callback.test.cjs`. Publishing target (not yet deployed): `https://oasis87z1-hub.github.io/postiz-oauth-callback/tiktok/`.
+Validation: `node --test callback.test.cjs` (two passing checks). Published with HTTPS on 2026-11-22: `https://oasis87z1-hub.github.io/postiz-oauth-callback/tiktok/`.
